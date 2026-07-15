@@ -1,0 +1,1 @@
+Repositorio donde iré documentando mi progreso durante el Reto 3. Por el momento contiene un componente de práctica y una guía de React en Markdown. A medida que avance el reto, iré agregando nuevos componentes, experimentos y funcionalidades antes de comenzar el proyecto principal.
